@@ -25,6 +25,6 @@
     6)  Sends all the data via LoRaWAN radio
    
   Expects a LoRaWAN Network Server to recieve and decode traffic
-  See https://docs.loraserver.io/loraserver/ for an excellent Open Source NS
+  See https://www.chirpstack.io/ for an excellent Open Source NS
  
  
